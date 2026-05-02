@@ -9,7 +9,7 @@ HEY!
    ||_______________||  fields_of_interests: ["Artificial Intelligence", "Machine Learning"]
    |/___________\||//|  technical_background: ["C", "Java", "Python", "Web Dev", "React", "SQL","Vercel", "Google Cloud"]
   /________________\_/  currently_learning: ["DSA", "Machine Learning"]
-  \________________/    fun_fact: When I'm not coding, I'm probably analyzing Tech,editing video in Pr and AE,or probably nothing.
+  \________________/    fun_fact: When I'm not coding, I'm probably analyzing Tech,editing video in Pr and AE.
 ```
 <p align="center">
 <br/>
