@@ -1,38 +1,45 @@
-# Hi there, I'm Irshad 👋
+# Hi there, I'm Jaidev Yadav 👋
 
 ### 👨‍💻 About Me
 
-I am a **B.Tech in Computer Science** student with a strong focus on software development, data science, and machine learning. I enjoy building functional applications and experimenting with AI models.
+I am a **3rd Year B.Tech Computer Science & Engineering** student at **BBD University**, based in **Lucknow, India**. I'm passionate about leveraging technology to build impactful solutions, particularly in the fields of Artificial Intelligence and Disaster Tech.
 
-- 🔭 I’m currently working on **SmartPrice**, an e-commerce price comparison and web scraping tool.
-- 🌱 I'm also deep into researching **AI-powered climate simulation models**.
-- 💬 Ask me about: Web app development, machine learning libraries, or building admin dashboard systems.
-- ⚡ Fun fact: When I'm not coding, I'm probably analyzing smartphone benchmark scores, editing HDR video workflows in Premiere Pro, or typing away on a 75% mechanical keyboard.
+- 🔭 I’m currently building an **AI-powered disaster management platform** for India with real-time monitoring.
+- 🌱 I’m currently deepening my knowledge in **DSA, TailwindCSS, Machine Learning, and Cloud Deployment**.
+- 💬 Ask me about: AI, Data Analysis, Next.js, and full-stack web development.
+- ⚡ Fun fact: I built **WhatsApp Wrapped**, a tool that takes your chat exports and gives you Spotify Wrapped-style insights into your conversations!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**  
+**Languages**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frontend & Web**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Data Science & ML**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+**Backend & Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Backend & Infrastructure**  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+**Cloud & Deployment**  
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-* 🛒 **SmartPrice:** A full-stack web scraping utility that actively compares product links between Amazon and Flipkart to extract and deliver the lowest available prices.
-* 🗣️ **Sanskrit NMT:** An AI-focused translation project dedicated to the restoration of minority languages, utilizing Neural Machine Translation to accurately translate Sanskrit.
-* 🚗 **Rida Moters Platform:** Developed a professional, responsive web platform for a second-hand car dealership, complete with a showroom interface and an integrated admin dashboard for car inventory management.
+* 🌍 **AI-Powered Disaster Management Platform:** A robust, real-time monitoring system tailored for India, leveraging AI and data analysis to assist in disaster scenarios.
+* 📚 **ExamPrep:** A comprehensive exam preparation companion app built to help students track their progress and study efficiently.
+* 📱 **WhatsApp Wrapped:** A creative data analysis tool that visualizes your WhatsApp chat history, providing fun insights inspired by Spotify Wrapped.
 
 ---
 
